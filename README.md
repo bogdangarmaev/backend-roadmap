@@ -5,3 +5,4 @@
 - [Конспекты](sections/python.md) документации Python 3.9
 - [Паттерны проектирования и интеграции](sections/patterns.md)
 - [Конспекты теории по базам данных](sections/databases.md)
+- [Алгоритмы и структуру данных ](sections/algoritms_and_data_structures.md)
